@@ -1,0 +1,6 @@
+car:
+  dayRate: 7
+  nightRate: 30
+
+taxiStation:
+  name: Bluz

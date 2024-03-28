@@ -1,0 +1,6 @@
+car:
+  dayRate: 10
+  nightRate: 15
+
+taxiStation:
+  name: luna
